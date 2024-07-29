@@ -1,3 +1,3 @@
 # Overview
 
-Ruby on Rails based API boilerplate
+Ruby on Rails based Authentication API personal boilerplate not ready yet
